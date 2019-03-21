@@ -11,11 +11,11 @@ application:
   showVersionNumber: true
   theme: bluegrey-lightgreen # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
   gitHubRibbon: true
-  twitterUrl: 'https://twitter.com/owasp_juiceshop'
-  facebookUrl: 'https://www.facebook.com/owasp.juiceshop'
-  slackUrl: 'http://owaspslack.com'
-  redditUrl: 'https://www.reddit.com/r/owasp_juiceshop'
-  pressKitUrl: 'https://github.com/OWASP/owasp-swag/tree/master/projects/juice-shop'
+  twitterUrl: ''
+  facebookUrl: ''
+  slackUrl: ''
+  redditUrl: ''
+  pressKitUrl: ''
   planetOverlayMap: orangemap2k.jpg
   planetName: Orangeuze
   recyclePage:
@@ -32,7 +32,7 @@ application:
     linkText: 'But me wait!'
     linkUrl: 'https://www.youtube.com/watch?v=9PnbKL3wuH4'
   securityTxt:
-    contact: 'mailto:donotreply@owasp-juice.shop'
+    contact: 'mailto:donotreply@joos.shoppe'
     encryption: 'https://keybase.io/bkimminich/pgp_keys.asc?fingerprint=19c01cb7157e4645e9e2c863062a85a8cbfbdcda'
     acknowledgements: '/#/score-board'
 challenges:
