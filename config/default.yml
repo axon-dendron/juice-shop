@@ -9,8 +9,8 @@ application:
   showChallengeSolvedNotifications: true
   showChallengeHints: true
   showVersionNumber: true
-  theme: bluegrey-lightgreen # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
-  gitHubRibbon: true
+  theme: deeporange-indigo # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
+  gitHubRibbon: false
   twitterUrl: ''
   facebookUrl: ''
   slackUrl: ''
@@ -28,9 +28,9 @@ application:
     buttonColor: '#558b2f'
     buttonTextColor: '#ffffff'
     message: 'This website uses fruit cookies to ensure you get the juiciest tracking experience.'
-    dismissText: 'Me want it!'
-    linkText: 'But me wait!'
-    linkUrl: 'https://www.youtube.com/watch?v=9PnbKL3wuH4'
+    dismissText: 'Meh'
+    linkText: 'Such fruit'
+    linkUrl: 'https://cdn.pixabay.com/photo/2014/02/01/17/28/apple-256261_1280.jpg'
   securityTxt:
     contact: 'mailto:donotreply@joos.shoppe'
     encryption: 'https://keybase.io/bkimminich/pgp_keys.asc?fingerprint=19c01cb7157e4645e9e2c863062a85a8cbfbdcda'
